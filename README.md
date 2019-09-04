@@ -1,5 +1,8 @@
 # README
 
+- https://github.com/SeanSith/rails-with-vscode-remote-containers
+
+
 Using Visual Studio Code's new [Remote Containers](https://code.visualstudio.com/docs/remote/remote-overview) features, this repository
 is an example of how to utilize the VSCode functionality to run a complete development environment using containers. Please note that other
 than having VSCode (currently VSCode Insiders), the VSCode "Remote Development" plugin, and Docker (tested on Docker for macOS) installed, there are no other local dependencies.
